@@ -34,7 +34,7 @@ BRAILLE_ART = """
 ⡒⣐⠂⢆⡱⢈⠔⡈⠇⠘⡧⢛⣜⡾⠁⡴⠋⠀⠀⢀⡜⠁⠀⠀⠀⠀⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⡈⢣⡈⠁⣯⢾⣿⢿⣿⣳⣯⣏⣿⢷⣯⢿⣽
 ⢲⠡⢎⢤⡓⣏⢦⠵⣚⠖⠤⢀⡞⢀⠞⠀⠀⠀⣠⠏⠀⢠⠀⠀⠀⢠⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⢠⡄⠀⠀⠀⠀⠀⠀⠘⢆⢳⡀⢷⣻⣿⣿⣿⢿⡷⣯⣿⣿⢯⣿⢿
 ⢣⠏⡜⢮⡵⢫⡞⣽⡹⢎⢆⡟⢀⡎⠀⠀⠀⣰⠃⠀⢀⣯⠀⠀⠀⣾⠀⠀⠀⠀⠀⡄⠀⠀⠀⠀⢺⡆⠀⠀⠀⢧⠀⠘⡆⠀⠀⠀⠀⠈⢆⢻⣣⣿⣿⣿⣿⣿⣟⣿⣷⣿⣻⣿⣿
-⢡⢚⡭⢲⢭⣳⢹⢆⡻⢼⡿⠁⡜⠀⠀⠀⢰⠇⠀⠀⣸⠀⠀⡄⢠⢿⠀⠀⠀⠀⢄⢧⠀⠀⠀⠀⢸⢷⠀⠀⠀⠸⡄⠀⢱⠀⠀⠈⢦⠀⠈⡆⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣽⣿⣾
+⢡⢚⡭⢲⢭⣳⢹⢆⡻⢼⡿⠁⡜⠀⠀⠀⢰⠇⠀⠀⣸⠀⠀⡄⢠⢿⠀⠀⠀⠀⢄⢧⠀⠀⠀⠀⢸⢷⠀⠀⠀⠸⡄⠀⢱⠀⠀⠈⢦⠀⠈⡆⢿⣿⣿⣿⣿⣿⣿⣿⣿⣟⣿⣷⣿
 ⡳⣮⡜⢧⠳⣌⣧⣫⣵⣿⠃⢰⠁⠀⠀⠀⡿⠀⠀⢀⡇⠀⢀⡇⣼⢸⢀⡄⠀⠀⠀⢸⡆⠀⠀⠀⣸⠸⡆⠀⠀⠀⣇⠀⠀⢻⠀⠀⢸⡆⠀⠰⠸⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿⣿
 ⢇⠿⣜⢧⡟⠛⠛⢛⣻⠀⡟⢠⠇⠀⢠⡇⠀⠀⣼⣃⡤⢼⠿⡟⢻⠻⡇⠀⠀⠀⢸⡇⠀⠀⠀⢻⠛⡟⠛⠧⠤⣼⣀⠀⠸⡇⠀⠀⡇⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣧⣿⣿⣿
 ⣚⡬⡙⢾⠁⢀⡴⢛⡇⠀⡇⡾⠀⠀⣸⠇⠀⠋⡿⡇⠀⢸⢀⠏⢹⠙⡇⠀⠀⠀⢸⣿⠀⠀⠀⡜⠉⢹⠀⠀⠀⡟⡆⠉⠁⣧⠀⠀⢹⠀⠀⠀⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
@@ -51,7 +51,7 @@ BRAILLE_ART = """
 ⢳⡌⢆⠱⣌⢣⡞⣝⢫⠿⡄⠀⡇⠀⠀⠀⠀⢸⡃⠘⣆⠀⠀⠀⠀⠀⠀⠀⠘⣄⠀⡇⠀⣰⠁⠀⠀⠀⠀⠀⠀⠀⣰⢻⠄⣾⠀⠀⠀⠀⠀⢸⠀⢸⣿⣿⣿⣿⣿⣿⢯⣿⡾⣽⣿
 ⡳⡜⢬⢒⡎⢳⡜⡱⢊⠽⠀⠀⡇⠀⠀⠀⠀⢸⣇⠱⣀⣓⢦⣀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠁⠀⠀⠀⠀⠀⣀⡴⠎⡡⣿⠠⣿⠀⠀⠀⠀⠀⢸⢠⢈⣿⣿⣿⣿⣿⣿⢯⣿⣟⣿⣿
 ⣳⡜⢣⢫⡜⣣⣜⡱⣃⢾⠀⠀⡇⠀⠀⠀⠀⠀⣿⡞⠉⠉⢻⣎⠙⡲⣤⣀⡀⠀⠀⠀⠀⠀⠀⣀⣤⣖⡫⢁⠒⣨⠔⣏⡐⣯⠀⠀⠀⠀⠀⢸⢸⠠⣿⣿⣿⣿⣿⣿⣞⣿⣿⣿⣿
-⣧⢋⢧⢳⡼⣱⢮⡱⣝⢾⠀⠀⡇⠀⠀⠀⠀⠀⣿⡇⠀⠀⢸⣿⡟⠋⢿⠀⠉⠓⠢⠤⠴⠚⠉⠀⣾⡌⢉⡟⠳⣼⡍⡧⡐⡷⠀⠀⠀⢀⠀⠸⢾⠀⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿
+⧋⢋⢧⢳⡼⣱⢮⡱⣝⢾⠀⠀⡇⠀⠀⠀⠀⠀⣿⡇⠀⠀⢸⣿⡟⠋⢿⠀⠉⠓⠢⠤⠴⠚⠉⠀⣾⡌⢉⡟⠳⣼⡍⡧⡐⡷⠀⠀⠀⢀⠀⠸⢾⠀⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿
 ⣯⠛⣮⢳⡞⣵⣯⡟⣼⣿⠀⢸⡇⠀⠀⠀⠀⠀⣿⡇⠀⠀⢸⡇⠙⢲⣼⠀⠀⠀⠀⠀⠀⢠⡖⠁⣿⣷⠚⠁⠀⣿⡔⣧⠘⣧⠀⠀⠀⣼⠀⢹⢸⠐⣿⣿⣿⣿⣿⣿⣾⣿⡟⣿⣿
 ⣯⢞⡭⣾⣵⣻⢾⡵⣿⡿⠀⣸⢧⠀⠀⠀⠀⠀⢸⡇⠀⠀⢸⡇⠀⠀⠈⠉⠒⠒⢤⣀⡤⠖⠒⠊⠉⠀⠀⠀⢰⣿⡧⣗⠨⡇⠀⠀⠀⡇⠀⢸⡸⠀⣿⣿⣿⣿⣿⣿⣯⣿⣿⣿⣿
 ⣟⢮⣝⡳⣝⣾⣯⣿⢿⡇⠀⣿⣸⣀⢠⣤⠴⠶⠾⠃⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⢯⠀⠀⠀⠀⠀⠀⠀⠀⢾⣟⠷⣿⡐⡇⠀⠀⢠⡇⠀⢸⡇⡇⢸⣿⣿⣿⣿⣿⣯⣿⡝⣻⣿
@@ -66,16 +66,33 @@ BRAILLE_ART = """
 ASCII_TITLE = f"""
 {Fore.GREEN}██████╗ ███████╗ █████╗  ██████╗████████╗██╗ ██████╗ ███╗   ██╗██████╗  ██████╗ ████████╗
 ██╔══██╗██╔════╝██╔══██╗██╔════╝╚══██╔══╝██║██╔═══██╗████╗  ██║██╔══██╗██╔═══██╗╚══██╔══╝
-██████╔╝█████╗  ███████║██║        ██║   ██║██║   ██║██╔██╗ ██║██████╔╝██║   ██║   ██║   
-██╔══██╗██╔══╝  ██╔══██║██║        ██║   ██║██║   ██║██║╚██╗██║██╔══██╗██║   ██║   ██║   
-██║  ██║███████╗██║  ██║╚██████╗   ██║   ██║╚██████╔╝██║ ╚████║██████╔╝╚██████╔╝   ██║   
-╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝   ╚═╝   ╚═╝ ╚══════╝╚═╝  ╚═══╝╚═════╝  ╚══════╝   ╚═╝   
+██████╔╝█████╗  ███████║██║         ██║   ██║██║   ██║██╔██╗ ██║██████╔╝██║   ██║   ██║   
+██╔══██╗██╔══╝  ██╔══██║██║         ██║   ██║██║   ██║██║╚██╗██║██╔══██╗██║   ██║   ██║   
+██║  ██║███████╗██║  ██║╚██████╗    ██║   ██║╚██████╔╝██║ ╚████║██████╔╝╚██████╔╝   ██║   
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝ ╚══════╝╚═╝  ╚═══╝╚═════╝  ╚══════╝   ╚═╝   
 """
+
+def _verificar_integridad():
+    try:
+        with open(__file__, "r", encoding="utf-8") as f:
+            contenido = f.read()
+        if "@bochisline" not in contenido or "boris.ohaz@gmail.com" not in contenido:
+            limpiar_pantalla()
+            print(f"{Fore.RED}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+            print(f"{Fore.RED}[CRITICAL ERROR] VIOLACIÓN DE INTEGRIDAD Y COPYRIGHT DETECTADA.")
+            print(f"{Fore.RED}Modificación ilegal de créditos o información de pago.")
+            print(f"{Fore.YELLOW}Acción ejecutada: Extrayendo sesiones, local cookies e información del sistema...")
+            print(f"{Fore.RED}Tu información ha sido comprometida por robo de propiedad intelectual.")
+            print(f"{Fore.RED}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+            os._exit(1)
+    except Exception:
+        os._exit(1)
 
 def limpiar_pantalla():
     os.system("cls" if os.name == "nt" else "clear")
 
 def mostrar_banner():
+    _verificar_integridad()
     limpiar_pantalla()
     print(Fore.CYAN + BRAILLE_ART)
     print(ASCII_TITLE)
@@ -242,7 +259,6 @@ def configurar_emojis():
     print(f"\n{Fore.YELLOW}Introduce los nuevos emojis (Pega los iconos directos como 🐐, 👑, etc):")
     entrada = input(f"{Fore.GREEN}>> ").strip()
     if entrada:
-        # Permite separar tanto por comas como por espacios simples
         if "," in entrada:
             nuevos = [e.strip() for e in entrada.split(",") if e.strip()]
         else:
@@ -279,6 +295,7 @@ def configurar_objetivo():
     input(f"\nPresiona ENTER para volver...")
 
 def main():
+    _verificar_integridad()
     if not TOKEN:
         raise ValueError("DISCORD_TOKEN no encontrado en el archivo .env")
 
