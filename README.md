@@ -1,4 +1,3 @@
-# ReactionBot
 # 🎯 Discord Message Reactor Bot
 
 > 💡 **Nota especial:** Si gustas ayudarme a arreglar y mejorar mi computadora, ¡estaría enormemente agradecido! Puedes contactarme o revisar la sección de apoyo al final de este documento.
@@ -13,12 +12,6 @@ Un bot interactivo en Python diseñado para escanear el historial de canales de 
   <img src="img/menu_principal.png" alt="Menú Principal del Bot" width="700">
   <br>
   <em>Interfaz principal con menú interactivo y arte ASCII/Braille.</em>
-</p>
-
-<p align="center">
-  <img src="image_fedf24.png" alt="Bot en Ejecución" width="700">
-  <br>
-  <em>Escaneo de historial en tiempo real y manejo de logs en la terminal.</em>
 </p>
 
 ---
